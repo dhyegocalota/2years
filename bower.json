@@ -1,0 +1,12 @@
+{
+  "name": "2years",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.6.2",
+    "jquery": "~1.11.0",
+    "normalize.css": "~3.0.1",
+    "fontawesome": "~4.1.0",
+    "jplayer": "~2.6.3"
+  },
+  "devDependencies": {}
+}
